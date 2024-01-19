@@ -2,7 +2,9 @@
 ## Esta es mi página principal en GitHub!
 *Esoty aprendiendo*
 <br>
+<br>
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)
+<br>
 <br>
 *y también SQL, Git, HTML y CSS*
 <br>
