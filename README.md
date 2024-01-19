@@ -1,8 +1,8 @@
 # Bienvenido! 👋
 ## Esta es mi página principal en GitHub!
-**Texto en grita**
+*Esoty aprendiendo Java, SQL, Git, HTML, CSS*
 <p></p>
-* *Texto en cursiva* *
+*También estoy aprendiendo a usar GitHub, Eclipse IDE, Visual Studio Code, Debian...*
 <p></p>
 ~~Texto tachado~~
 <p></p>
