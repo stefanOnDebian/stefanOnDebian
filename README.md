@@ -5,5 +5,8 @@
 * *Texto en cursiva* *
 <p></p>
 ~~Texto tachado~~
-> Texto sin más, un comentario mio 
+<p></p>
+Texto sin más, un comentario mio
+>  Text that is a quoate
+
 
