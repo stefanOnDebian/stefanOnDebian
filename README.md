@@ -6,7 +6,6 @@
 <p></p>
 ~~Texto tachado~~
 <p></p>
-Texto sin más, un comentario mio
->  Text that is a quoate
+git status
 
 
