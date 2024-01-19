@@ -1,11 +1,7 @@
 # Bienvenido! 👋
 ## Esta es mi página principal en GitHub!
-*Esoty aprendiendo Java, SQL, Git, HTML, CSS*
-<p></p>
-*También estoy aprendiendo a usar GitHub, Eclipse IDE, Visual Studio Code, Debian...*
-<p></p>
-~~Texto tachado~~
-<p></p>
+* *Esoty aprendiendo Java, SQL, Git, HTML, CSS* *
+* *También estoy aprendiendo a usar GitHub, Eclipse IDE, Visual Studio Code, Debian...* *
 This site was built using [GitHub Pages](https://pages.github.com/).
 
 [Contribution guidelines for this project](docs/CONTRIBUTING.md)
